@@ -1,1 +1,1 @@
-# sample_active_directory
+SecureX Active Directory Sample
