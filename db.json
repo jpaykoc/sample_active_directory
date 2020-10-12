@@ -74,7 +74,7 @@
     "sessions": [
         {
         "ip": "10.10.10.10",
-        "username": "chdietrich",
+        "username": "rsanchez",
         "lastLoginTime": "2020-08-05T10:30:03.325Z"
         },
         {
@@ -94,7 +94,7 @@
         },
         {
         "ip": "192.168.30.30",
-        "username": "rsanchez",
+        "username": "clbauch",
         "lastLoginTime": "2020-08-05T07:30:03.325Z"
         }
     ]
